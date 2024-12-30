@@ -1,0 +1,10 @@
+# Jika ingin semua file dengan extention .log
+text/*.log
+text/temp
+
+# Per file secara manual
+# text/sample.log
+# text/app.log
+
+# Langsung dari folder temp
+# text/temp
